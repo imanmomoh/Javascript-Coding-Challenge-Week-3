@@ -1,4 +1,4 @@
-# imanmomoh-Javascript-Coding-Challenge-Week-3
+# Javascript-Coding-Challenge-Week-3
 EASY: Write a function that would allow you to do this:
 var run = exercise('running');
 console.log(run()); // prints "Today's exercise: running"
